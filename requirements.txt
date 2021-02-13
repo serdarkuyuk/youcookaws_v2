@@ -1,0 +1,7 @@
+isodate==0.6.0
+requests==2.22.0
+spacy==2.2.3
+nltk==3.4.5
+youtube_transcript_api==0.2.1
+Flask==1.1.1
+yelpapi==2.4.0
